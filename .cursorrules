@@ -87,14 +87,14 @@ FOR NEW PROJECTS ONLY:
 ```
 □ Language Runtime Installation
   - Python: Use pyenv/conda + virtual environments
-  - Node.js: Use nvm + npm/yarn/pnpm
+  - Node.js: Use nvm + npm
   - Java: Use SDKMAN + Maven/Gradle
   - Go: Use official installer + go mod
   - Rust: Use rustup + cargo
 
 □ Package Manager Setup
   - Python: pip + requirements.txt OR poetry + pyproject.toml
-  - Node.js: npm + package.json OR yarn + package.json
+  - Node.js: npm + package.json
   - Java: Maven (pom.xml) OR Gradle (build.gradle)
 
 □ Virtual Environment Creation
